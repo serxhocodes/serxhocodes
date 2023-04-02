@@ -1,4 +1,4 @@
-[![MasterHead](https://ibb.co/9TtDMrZ)](https://i.ibb.co/9TtDMrZ/SC-Logo-Original-Invert-JPG.jpg)
+[![MasterHead](https://imgur.com/xjzj9vM)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Serxho</h1>
 <h3 align="center">Get creative with your code.</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e47gjufg8imga41mfl7bf29hj6dirgtdr6gl7y7fhc4&rid=giphy.gif&ct=g">
