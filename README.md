@@ -1,5 +1,5 @@
-[![Untitled-1.png](https://i.postimg.cc/2yqY7PKR/Untitled-1.png)](https://postimg.cc/Mf8gWrwd)
-<h1 align="center">Hi 👋, I'm Serxho</h1>
+
+<h1 align="center">Hi 👋, I'm</h1>
 <h3 align="center">Get creative with your code.</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e47gjufg8imga41mfl7bf29hj6dirgtdr6gl7y7fhc4&rid=giphy.gif&ct=g">
 
